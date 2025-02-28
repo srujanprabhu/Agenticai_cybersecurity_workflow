@@ -123,6 +123,8 @@ After running a security test, you'll see results for each executed test:
 
 ## Architecture Diagram
 
+![Image](https://github.com/user-attachments/assets/fb3dc09e-8c58-45c6-8e18-a2ad6d7c5952)
+
 ```
 User Query → Intent Analysis → Security Tests Selection → Scope Validation → Test Execution → Dynamic Adaptation → Results Compilation → Report Generation
 ```
