@@ -91,7 +91,7 @@ numpy
 
 1. Run the Streamlit application:
    ```
-   streamlit run temptest_1.py
+   streamlit run app.py
    ```
 
 2. Enter your security testing query in natural language, such as:
