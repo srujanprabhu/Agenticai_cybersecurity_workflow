@@ -1,5 +1,3 @@
-# Agenticai_cybersecurity_workflow
-
 
 # LangGraph-Based Agentic Cybersecurity Workflow
 
