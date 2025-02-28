@@ -84,12 +84,8 @@ numpy
    
    For SQLMap, FFUF, and Gobuster, follow the installation instructions on their respective GitHub repositories.
 
-4. Set up your API keys:
-   ```
-   export GROQ_API_KEY=your_api_key_here
-   ```
 
-5. Update tool paths in the code to match your local environment (look for paths like `ffuf_path`, `gobuster_path`, and `wordlist_path`).
+4. Update tool paths in the code to match your local environment (look for paths like `ffuf_path`, `gobuster_path`, and `wordlist_path`).
 
 ## Usage
 
