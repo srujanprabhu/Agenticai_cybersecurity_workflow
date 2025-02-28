@@ -127,15 +127,6 @@ After running a security test, you'll see results for each executed test:
 User Query → Intent Analysis → Security Tests Selection → Scope Validation → Test Execution → Dynamic Adaptation → Results Compilation → Report Generation
 ```
 
-## Limitations and Future Work
-
-- Currently supports a limited set of security tools
-- Scope enforcement is based on a hardcoded list rather than user-defined scope
-- Does not include vulnerability assessment or risk scoring
-- Future work will include more advanced tools, user-defined scope, and comprehensive reporting
-
-## License
-
 ## Acknowledgements
 
 This project was developed as part of an AI Engineering assignment, leveraging the capabilities of LangGraph, LangChain, and various security testing tools.
